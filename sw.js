@@ -39,5 +39,3 @@ self.addEventListener("fetch", async (e) => {
 self.addEventListener("activate", async (e) => {
     console.log("SW activate")
 })
-
-//
